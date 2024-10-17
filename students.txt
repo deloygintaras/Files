@@ -1,0 +1,9 @@
+[{'vardas': 'Petras', 'pavarde': 'Petrauskas',
+'amzius': '22', 'mokykla': 'KTU', 'vidurkis':
+'8.7'}, {'vardas': 'Inga', 'pavarde': 'Ignauskienė',
+'amzius': '23', 'mokykla': 'VDU', 'vidurkis':
+'8.9'}, {'vardas': 'Ugnius', 'pavarde':
+'Ugnavičius', 'amzius': '21', 'mokykla': 'KTU',
+'vidurkis': '8.5'}, {'vardas': 'Gintarė', 'pavarde':
+'Gintarytė', 'amzius': '22', 'mokykla': 'VDU',
+'vidurkis': '8.3'}]
